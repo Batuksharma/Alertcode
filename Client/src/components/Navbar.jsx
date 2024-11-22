@@ -8,7 +8,7 @@ const Navbar = () => {
         <div className="text-xl font-bold text-white">Brand</div>
         <ul className="flex space-x-4">
           <li>
-            <a href="#home" className="text-white hover:text-gray-300">Home</a>
+            <a href="#home" className="text-white hover:text-gray-300">Home  alsakjshjhsk</a>
           </li>
           <li>
             <a href="#about" className="text-white hover:text-gray-300">About</a>
